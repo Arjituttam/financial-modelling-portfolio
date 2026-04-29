@@ -2,7 +2,6 @@
 
 **Arjit Uttam**  
 ACCA | CMA USA Student  
-Aspiring Transaction Advisory / Valuation / Investment Banking Professional
 
 ### Projects
 

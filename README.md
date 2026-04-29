@@ -26,4 +26,4 @@ ACCA | CMA USA Student
 - [Download Excel](Infosys_Relative_Pricing_Model.xlsx)  
 - [Download Summary PDF](Arjit_Infosys_DCF_Relative_Model_Summary.pdf)
 
-Built using real data from Screener.in. Focused on developing practical financial modelling and valuation skills for TAS / IB roles.
+Built using real data from Screener.in. Focused on developing practical financial modelling and valuation skills.

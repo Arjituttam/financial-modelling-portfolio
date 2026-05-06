@@ -6,7 +6,7 @@ ACCA | CMA USA Student
 ### Projects
 
 **1. Tata Consultancy Services (TCS) – Financial Analysis & Valuation Model** 
-**3-Statement Integrated Model**  
+- **3-Statement Integrated Model**  
   Full 3-statement model with Common Size Analysis and Ratio Analysis  
   [Download Excel](TCS_3Statement_Model.xlsx)
 

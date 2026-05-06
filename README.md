@@ -8,7 +8,7 @@ ACCA | CMA USA Student
 **1. Tata Consultancy Services (TCS) – Financial Analysis & Valuation Model** 
 - **3-Statement Integrated Model**  
   Full 3-statement model with Common Size Analysis and Ratio Analysis  
-  [Download Excel](TCS_3Statement_Model.xlsx)
+  [Download Excel](TCS_3Statment_Model.xlsx)
 
 - **DCF Valuation Model**  
   FCFF-based DCF with WACC calculation, Terminal Value & Sensitivity Analysis  
@@ -16,7 +16,7 @@ ACCA | CMA USA Student
 
 - **Relative Pricing (Comps) Model**  
   Peer comparison using EV/Revenue, EV/EBITDA & P/E multiples  
-  [Download Excel](TCS_Relative_Pricing_Model.xlsx)
+  [Download Excel](TCS_Relative_Valuation_Model.xlsx)
 
 - **Summary PDF** –  
   [Download Summary PDF](TCS_Financial_Analysis_and_Valuation_Summary.pdf)
